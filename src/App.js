@@ -1,6 +1,5 @@
 import React from "react";
 import { TileLayer, MapContainer, Marker, Popup } from "react-leaflet";
-import json from "./temp";
 import "./App.css";
 const DEFAULT_LATITUDE = 0;
 const DEFAULT_LONGITUDE = 0;
